@@ -26,7 +26,7 @@ public class prefixRemovals {
                     } else {
 
                         flag = false;
-                        
+
                     }
                 }
 
